@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XShell2MobaXterm": {
+      "commandName": "Project",
+      "commandLineArgs": "\"I:\\Documents\\NetSarang Computer\\7\\Xshell\\Sessions\""
+    }
+  }
+}
